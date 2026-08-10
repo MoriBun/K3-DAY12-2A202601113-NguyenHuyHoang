@@ -12,7 +12,7 @@
 |-----|----------|
 | Họ và tên | Nguyễn Huy Hoàng |
 | Mã học viên | 2A202601113 |
-| Repo | https://github.com/MoriBun/Day12_2A202601113_NguyenHuyHoang |
+| Repo | https://github.com/MoriBun/Day12-2A202601113-NguyenHuyHoang |
 
 ## Service
 
